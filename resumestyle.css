@@ -1,4 +1,4 @@
-body{
+/* body{
     background-color: rgba(61, 221, 12, 0);
 }
 #myName{
@@ -6,7 +6,7 @@ body{
 }
 .details{
     text-align: center;
-    line-height: 0.2cm;
+    line-height: 0.5cm;
     color: red;
 }
 h2{
@@ -22,4 +22,16 @@ th{
     text-align: center;
     border: 1px solid black;
     color: rgb(0, 0, 0);
+} */
+
+body{
+    background-color: lightgray;
+}
+
+.section{
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px black;
 }
